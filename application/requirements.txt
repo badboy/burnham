@@ -156,9 +156,9 @@ yamllint==1.25.0 \
     --hash=sha256:b1549cbe5b47b6ba67bdeea31720f5c51431a4d0c076c1557952d841f7223519 \
     --hash=sha256:c7be4d0d2584a1b561498fa9acb77ad22eb434a109725c7781373ae496d823b3 \
     # via glean-parser
-zipp==3.3.1 \
-    --hash=sha256:16522f69653f0d67be90e8baa4a46d66389145b734345d68a257da53df670903 \
-    --hash=sha256:c1532a8030c32fd52ff6a288d855fe7adef5823ba1d26a29a68fd6314aa72baa \
+zipp==3.11.0 \
+    --hash=sha256:83a28fcb75844b5c0cdaf5aa4003c2d728c77e05f5aeabe8e95e56727005fbaa \
+    --hash=sha256:a7a22e05929290a67401440b39690ae6563279bced5f314609d9d03798f56766 \
     # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
